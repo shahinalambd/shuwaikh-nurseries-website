@@ -79,7 +79,7 @@ const T = {
     dTotal:"Estimated total", dName:"Your name (optional)", dSend:"Send enquiry list", dClear:"Clear list",
     toastAdd:"Added to enquiry list", toastRemove:"Removed from list",
     footBlurb:"Plants, landscaping and irrigation for homes, villas and businesses across Kuwait.",
-    fPages:"Pages", fServices:"Services", fVisit:"Visit us", rights:"All rights reserved.", madeBy:"Website by",
+    fPages:"Pages", fServices:"Services", fVisit:"Visit us", rights:"All rights reserved.", madeBy:"Designed by",
     waHello:"Hello Shuwaikh Almashatil Nurseries, ",
     quotes:[
       ["They replaced our dying lawn with drip-watered beds and palms. Our water bill dropped and the garden finally looks alive in August.","Villa owner","Salwa"],
@@ -153,7 +153,7 @@ const T = {
     dTotal:"الإجمالي التقديري", dName:"اسمك (اختياري)", dSend:"أرسل قائمة الطلب", dClear:"مسح القائمة",
     toastAdd:"أُضيفت إلى قائمة الطلب", toastRemove:"أُزيلت من القائمة",
     footBlurb:"نباتات وتنسيق حدائق وأنظمة ري للمنازل والفلل والشركات في أنحاء الكويت.",
-    fPages:"الصفحات", fServices:"الخدمات", fVisit:"زورونا", rights:"جميع الحقوق محفوظة.", madeBy:"تصميم الموقع",
+    fPages:"الصفحات", fServices:"الخدمات", fVisit:"زورونا", rights:"جميع الحقوق محفوظة.", madeBy:"تصميم",
     waHello:"مرحباً مشاتل الشويخ، ",
     quotes:[
       ["استبدلوا العشب الميت بأحواض ونخيل تُروى بالتنقيط. انخفضت فاتورة المياه وأصبحت الحديقة حية حتى في أغسطس.","مالك فيلا","سلوى"],

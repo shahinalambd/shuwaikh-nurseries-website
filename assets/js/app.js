@@ -81,7 +81,7 @@ function renderFoot(){
         <li>${SITE.email}</li>
         <li><a href="${SITE.mapLink}" target="_blank" rel="noopener">${L(SITE.address)}</a></li></ul></div>
     </div>
-    <div class="foot-bottom"><span>© ${y} Shuwaikh Almashatil Nurseries. ${x.rights}</span><span>${x.madeBy} <a href="https://www.linkedin.com/in/vartexflow" target="_blank" rel="noopener">VartexFlow</a></span></div>
+    <div class="foot-bottom"><span>© ${y} Shuwaikh Almashatil Nurseries. ${x.rights}</span><span>${x.madeBy} VartexFlow</span></div>
   </div>`;
 }
 function applyLang(){
